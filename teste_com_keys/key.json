@@ -1,4 +1,6 @@
 {
-  "key": "teste1",
-  "valid": true 
+  keys: [
+  {"key": "key1", "valid": true }
+  {"key": "key2", "valid": false}  
+  ]
 }
